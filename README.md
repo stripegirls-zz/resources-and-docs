@@ -5,7 +5,6 @@ This repo will combine resources to help you get started with coding. StripeGirl
 Think of this document as a repository of knowledge. Just like any other knowledge-base, it will grow and be addd to when our members find more cool things! If you spot something helpful online that you'd like to share, open up an issue or a pull request and we'll add the resource here!
 
 ## Table of Contents
-* [Contributing](#contributing)
 * [Text Editor](#text-editor)
 * [Git](#git)
 * [Apache, PHP and MySQL or MariaDB](#apache-php-and-mysql-or-mariadb)
@@ -32,7 +31,7 @@ We write code in a text editor, which can easily be just about any program that 
 
 You can also use something called an IDE (Independant Development Environment), which can give you lots of other helpfu hints.
 
-*[PhpStorm: A PHP IDE](https://www.jetbrains.com/phpstorm/)
+* [PhpStorm: A PHP IDE](https://www.jetbrains.com/phpstorm/)
 
 WARNING: Do not use a text editor that puts out formatted text, such as Microsoft Word or Pages. The formatting on the text (eg font, font size, bold, italics) will prevent it being able to be interpretted as code and your projects will break.
 
