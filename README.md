@@ -6,12 +6,19 @@ Think of this document as a repository of knowledge. Just like any other knowled
 
 ## Table of Contents
 [Contributing](#contributing)
+
 [Text Editor](#text-editor)
+
 [Git](#git)
+
 [Apache, PHP and MySQL or MariaDB](#apache-php-and-mysql-or-mariadb)
+
 [Composer](#composer)
+
 [SilverStripe](#silverstripe)
+
 [General Learning Resources](#general-learning-resources)
+
 
 ## Contributing
 
@@ -45,7 +52,7 @@ Here's a list of learning resources and helpful links to get you started with gi
 * [Interactive git cheatsheet](http://www.ndpsoftware.com/git-cheatsheet.html)
 * [Learn git from the series 'Learn X in Y minutes'](http://learnxinyminutes.com/docs/git/)
 
-## Apache, PHP and MySQL or MariaDB
+## Apache PHP and MySQL or MariaDB
 
 ### Apache
 To run your new PHP sites locally (on your machine), you will need to run a local server. We will be using Apache as our local server, although there are many others. If you are using a Mac, your computer might aleady come with some of this stuff installed, so if you're struggling with installing any of the stuff below, have a chat to somebody at the next meetup about how to best set up your environment for developing.
