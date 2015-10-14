@@ -4,14 +4,6 @@ This repo will combine resources to help you get started with coding. StripeGirl
 
 Think of this document as a repository of knowledge. Just like any other knowledge-base, it will grow and be addd to when our members find more cool things! If you spot something helpful online that you'd like to share, open up an issue or a pull request and we'll add the resource here!
 
-## Table of Contents
-* [Text Editor](#text-editor)
-* [Git](#git)
-* [Apache, PHP and MySQL or MariaDB](#apache-php-and-mysql-or-mariadb)
-* [Composer](#composer)
-* [SilverStripe](#silverstripe)
-* [General Learning Resources](#general-learning-resources)
-
 ## Contributing
 
 If you'd like to add a new resource via a pull request, please make sure it's formatted similarly to the other resources here and is placed in the correct category to make it easier for other people to find.
@@ -19,6 +11,14 @@ If you'd like to add a new resource via a pull request, please make sure it's fo
 If it's a general learning resource, please write a sentence or two about what it is/does and why it's helpful, as well as a link and an author if possible.
 
 This ReadMe doc is written using GitHub flavoured Markdown. You can read more tips and tricks on how to use Markdown by reading [this handy document by Adam Pritchard](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)!
+
+## Table of Contents
+* [Text Editor](#text-editor)
+* [Git](#git)
+* [Apache, PHP and MySQL or MariaDB](#apache-php-and-mysql-or-mariadb)
+* [Composer](#composer)
+* [SilverStripe](#silverstripe)
+* [General Learning Resources](#general-learning-resources)
 
 ## Text Editor
 
