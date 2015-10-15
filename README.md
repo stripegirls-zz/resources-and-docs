@@ -92,6 +92,8 @@ There are other ways to install SilverStripe too, but we'll stick with this one 
 This section is for programming tips and tricks that will help us all become awesome coders.
 
 * [PHP: The Right Way](http://www.phptherightway.com/) — This resource comes with a bunch of PHP tips and explanations and can teach you a lot about the land of PHP.
+* [PHP Manual](https://secure.php.net/manual/en/preface.php) — You can read all the documentation here, search for methods and find out more about PHP.
+* [Codecademy course on PHP](https://www.codecademy.com/tracks/php) — This is a beginner course in PHP that should take you about 4 hours to complete.
 
 
 
