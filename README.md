@@ -43,6 +43,8 @@ Here's a list of learning resources and helpful links to get you started with gi
 * [Youtube tutorial series by 308tube](https://www.youtube.com/watch?v=mYjZtU1-u9Y&list=PL1F56EA413018EEE1)
 * [Interactive git cheatsheet](http://www.ndpsoftware.com/git-cheatsheet.html)
 * [Learn git from the series 'Learn X in Y minutes'](http://learnxinyminutes.com/docs/git/)
+* [Become a git guru by Atlassian](https://www.atlassian.com/git/tutorials/)
+
 
 ## Apache PHP and MySQL or MariaDB
 
