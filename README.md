@@ -44,6 +44,7 @@ Here's a list of learning resources and helpful links to get you started with gi
 * [Interactive git cheatsheet](http://www.ndpsoftware.com/git-cheatsheet.html)
 * [Learn git from the series 'Learn X in Y minutes'](http://learnxinyminutes.com/docs/git/)
 * [Become a git guru by Atlassian](https://www.atlassian.com/git/tutorials/)
+* [Quick Tip: Leveraging the Power of Git Stash](http://code.tutsplus.com/tutorials/quick-tip-leveraging-the-power-of-git-stash--cms-22988)
 
 
 ## Apache PHP and MySQL or MariaDB
@@ -80,6 +81,7 @@ Composer is a dependancy manager for projects written in PHP. Why do you need a 
 
 * [Composer installation guide for Windows and Linux](http://www.dev-metal.com/install-update-composer-windows-7-ubuntu-debian-centos/)
 * [Composer installation guide for Mac](http://www.abeautifulsite.net/installing-composer-on-os-x/)
+* [Difference between composer install and update explained](https://www.youtube.com/watch?v=VjkCBXXMadQ)
 
 ## SilverStripe
 
