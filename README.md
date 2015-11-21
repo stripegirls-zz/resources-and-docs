@@ -39,6 +39,7 @@ WARNING: Do not use a text editor that puts out formatted text, such as Microsof
 
 Here's a list of learning resources and helpful links to get you started with git!
 
+* [Learn Git — 2 hour Codecademy free course](https://www.codecademy.com/learn/learn-git)
 * [GitHub git from the command line cheat sheet](https://training.github.com/kit/downloads/github-git-cheat-sheet.pdf)
 * [Youtube tutorial series by 308tube](https://www.youtube.com/watch?v=mYjZtU1-u9Y&list=PL1F56EA413018EEE1)
 * [Interactive git cheatsheet](http://www.ndpsoftware.com/git-cheatsheet.html)
@@ -96,10 +97,3 @@ This section is for programming tips and tricks that will help us all become awe
 * [PHP: The Right Way](http://www.phptherightway.com/) — This resource comes with a bunch of PHP tips and explanations and can teach you a lot about the land of PHP.
 * [PHP Manual](https://secure.php.net/manual/en/preface.php) — You can read all the documentation here, search for methods and find out more about PHP.
 * [Codecademy course on PHP](https://www.codecademy.com/tracks/php) — This is a beginner course in PHP that should take you about 4 hours to complete.
-
-
-
-
-
-
-
